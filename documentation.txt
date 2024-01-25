@@ -1,0 +1,3 @@
+Documentation du Projet de Site Web Restaurant
+Introduction
+Ce projet consiste en la création d'un site web pour un restaurant fictif appelé "Le goût du péché". Le site présente les différents services du restaurant, des informations sur les plats proposés, des options de commande et de réservation, ainsi que des sections visuelles attrayantes pour susciter l'intérêt des visiteurs.
